@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>iridium.cache</id>
+        <version>2.0.1.7071</version>
+        <authors>Philippe Leybaert</authors>
+        <owners>Philippe Leybaert</owners>
+        <licenseUrl>https://raw.githubusercontent.com/activa/iridium-cache/master/LICENSE</licenseUrl>
+        <projectUrl>http://github.com/activa/iridium-cache</projectUrl>
+        <iconUrl>http://www.iridiumdb.com/img/IconPlain64.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Caching library for .NET</description>
+        <language>en-US</language>
+        <tags>iridium cache caching</tags>
+    </metadata>
+    <files>
+        <file src="src\Iridium.Cache\bin\Release\netstandard1.0\*.dll" target="lib\netstandard1.0" />
+    </files>
+</package>
